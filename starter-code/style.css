@@ -1,0 +1,264 @@
+* {
+  padding: 0%;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 30px 25px 5px 20px;
+  position: absolute;
+  bottom: auto;
+  top: -31px;
+  box-shadow: #aea9a9;
+}
+h1 {
+  font-size: 3em;
+  font-weight: bolder;
+  position: absolute;
+  top: -7px;
+  left: 5px;
+}
+.container .boxes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container .boxes .box-1 {
+  display: flex;
+  flex-direction: column;
+  width: 30.5%;
+  gap: 1rem;
+}
+
+.book-1 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 21%;
+  left: 2%;
+  padding: 20px;
+}
+.img-1 .writer-1 {
+  color: #fff;
+  position: absolute;
+  top: 21%;
+  left: 0%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-2 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 45%;
+  left: 2%;
+  padding: 20px;
+}
+.img-2 .writer-2 {
+  color: #fff;
+  position: absolute;
+  top: 48%;
+  left: 1%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-3 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 74%;
+  left: 3%;
+  padding: 20px;
+}
+.img-3 .writer-3 {
+  color: #fff;
+  position: absolute;
+  top: 77%;
+  left: 0%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-4 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 24%;
+  left: 27%;
+  padding: 20px;
+}
+.img-4 .writer-4 {
+  color: #fff;
+  position: absolute;
+  top: 27%;
+  left: 24%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-5 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 41%;
+  left: 28%;
+  padding: 20px;
+}
+.img-5 .writer-5 {
+  color: #fff;
+  position: absolute;
+  top: 45%;
+  left: 25%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-6 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 65%;
+  left: 28%;
+  padding: 20px;
+}
+.img-6 .writer-6 {
+  color: #fff;
+  position: absolute;
+  top: 65%;
+  left: 25%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-7 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 12%;
+  left: 53%;
+  padding: 20px;
+}
+.img-7 .writer-7 {
+  color: #fff;
+  position: absolute;
+  top: 12%;
+  left: 50%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-8 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 47%;
+  left: 52%;
+  padding: 20px;
+}
+.img-8 .writer-8 {
+  color: #fff;
+  position: absolute;
+  top: 51%;
+  left: 50%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-9 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 87%;
+  left: 53%;
+  padding: 20px;
+}
+.img-9 .writer-9 {
+  color: #fff;
+  position: absolute;
+  top: 87%;
+  left: 51%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-10 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 8%;
+  left: 77%;
+  padding: 20px;
+}
+.img-10 .writer-10 {
+  color: #fff;
+  position: absolute;
+  top: 11%;
+  left: 74%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-11 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 27%;
+  left: 77%;
+  padding: 20px;
+}
+.img-11 .writer-11 {
+  color: #fff;
+  position: absolute;
+  top: 30%;
+  left: 75%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-12 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 61%;
+  left: 77%;
+  padding: 20px;
+}
+.img-12 .writer-12 {
+  color: #fff;
+  position: absolute;
+  top: 64%;
+  left: 75%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-13 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 90%;
+  left: 78%;
+  padding: 20px;
+}
+.img-13 .writer-13 {
+  color: #fff;
+  position: absolute;
+  top: 90%;
+  left: 75%;
+  padding: 55px;
+  font-size: 10px;
+}
+.book-14 {
+  font-size: 28px;
+  color: #fff;
+  position: absolute;
+  top: 83%;
+  left: 28%;
+  padding: 20px;
+}
+.img-14 .writer-14 {
+  color: #fff;
+  position: absolute;
+  top: 86%;
+  left: 25%;
+  padding: 55px;
+  font-size: 10px;
+}
+
+.container .box-4 {
+  padding-top: 15px;
+}
